@@ -1,0 +1,15 @@
+.nav-div{
+    margin: 1%;
+    background-color: lightgreen;
+}
+main{
+    margin: 1%;
+    background-color: lightskyblue;
+}
+header{
+    background-color: coral;
+}
+footer{
+    margin: 1%;
+    background-color: orange;
+}
