@@ -1,3 +1,4 @@
+/* General */
 .nav-div{
     margin: 1%;
     background-color: lightgreen;
@@ -9,7 +10,20 @@ main{
 header{
     background-color: coral;
 }
-footer{
-    margin: 1%;
+.footer-div{
     background-color: orange;
+}
+body{
+    background-color: lightslategray!important;
+}
+/* Links */
+.footer-nav-link {
+    color: #6c757d;
+    transition: color 0.3s ease-in-out;
+}
+.footer-nav-link:hover {
+    color: black !important;
+}
+.contact-email:hover{
+    text-decoration: underline!important;
 }
