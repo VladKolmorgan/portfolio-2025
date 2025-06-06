@@ -1,6 +1,5 @@
 /* General */
 .nav-div{
-    margin: 1%;
     background-color: lightgreen;
 }
 main{
@@ -19,11 +18,18 @@ body{
 /* Links */
 .footer-nav-link {
     color: #6c757d;
-    transition: color 0.3s ease-in-out;
 }
 .footer-nav-link:hover {
     color: black !important;
 }
 .contact-email:hover{
+    text-decoration: underline!important;
+}
+.card-nav-link {
+    color: #6c757d;
+    text-decoration: none!important;
+}
+.card-nav-link:hover {
+    color: black !important;
     text-decoration: underline!important;
 }
