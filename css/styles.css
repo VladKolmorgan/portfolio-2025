@@ -17,7 +17,7 @@ body{
 }
 /* Links */
 .footer-nav-link {
-    color: #6c757d;
+    /* For Future Styling */
 }
 .footer-nav-link:hover {
     color: black !important;
@@ -32,4 +32,10 @@ body{
 .card-nav-link:hover {
     color: black !important;
     text-decoration: underline!important;
+}
+.nav-nav-link{
+    /* For Future Styling */
+}
+.nav-nav-link:hover {
+    color: black !important;
 }
