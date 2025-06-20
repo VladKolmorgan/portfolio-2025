@@ -16,9 +16,11 @@ body{
 }
 .bg-1{
     background-color: #55B8E6;
+    color: white;
 }
 .bg-2{
     background-color: white;
+    color: black;
 }
 .outer-wrapper{
 	margin-left: auto;
@@ -28,26 +30,32 @@ body{
 }
 
 /* Links */
-.footer-nav-link {
+.active-custom{
+    color: #55B8E6 !important;
+    border-bottom: 2px solid #55B8E6 !important;
+}
+.footer-nav-link{
     /* For Future Styling */
 }
-.footer-nav-link:hover {
-    color: black !important;
+.footer-nav-link:hover{
+    color: #55B8E6 !important;
 }
 .contact-email:hover{
     text-decoration: underline!important;
 }
-.card-nav-link {
+.card-nav-link{
     color: #6c757d;
     text-decoration: none!important;
 }
-.card-nav-link:hover {
+.card-nav-link:hover{
     color: black !important;
-    text-decoration: underline!important;
+    text-decoration: underline !important;
 }
 .nav-nav-link{
     /* For Future Styling */
+    border-bottom: 2px solid transparent;
 }
-.nav-nav-link:hover {
-    color: black !important;
+.nav-nav-link:hover{
+    color: #55B8E6 !important;
+    border-bottom: 2px solid #55B8E6 !important;
 }
