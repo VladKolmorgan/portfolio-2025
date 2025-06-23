@@ -84,3 +84,11 @@ body{
 body{
     font-family:Arial, Helvetica, sans-serif !important;
 }
+
+/* Cards */
+.card-background-custom-1{
+    background-color: #55B8E6 !important;
+}
+.card-background-custom-2{
+    background-color: white !important;
+}
