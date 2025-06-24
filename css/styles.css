@@ -59,6 +59,12 @@ body{
     color: #55B8E6 !important;
     border-bottom: 2px solid #55B8E6 !important;
 }
+.contact-nav-link{
+    color: white !important;
+}
+.contact-nav-link:hover{
+    color: white !important;   
+}
 
 /* Buttons */
 .button-list-custom{
