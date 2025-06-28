@@ -12,7 +12,10 @@ header{
     background-color: white;
 }
 body{
-    background-image: url(../images/stockphoto.jpg);
+    background-image: url(../images/background.jpg);
+	position: top;
+	border-image-repeat: no-repeat;
+	background-size: cover;
 }
 .bg-1{
     background-color: #55B8E6;
