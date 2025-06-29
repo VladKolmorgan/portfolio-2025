@@ -19,11 +19,11 @@ body{
 }
 .bg-1{
     background-color: #55B8E6;
-    color: white;
+    color: white !important;
 }
 .bg-2{
     background-color: white;
-    color: black;
+    color: black !important;
 }
 .outer-wrapper{
 	margin-left: auto;
