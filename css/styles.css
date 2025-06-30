@@ -33,6 +33,22 @@ body{
 }
 
 /* Links */
+.bg-1-link{
+    color: #6c757d;
+}
+.bg-1-link:hover{
+    color: black !important;
+    text-decoration: underline !important;
+}
+.bg-2-link{
+    color: white !important;
+    text-decoration: underline !important;
+}
+.bg-2-link:hover{
+    color: #55B8E6 !important;
+    text-decoration: underline !important;
+}
+
 .active-custom{
     color: #55B8E6 !important;
     border-bottom: 2px solid #55B8E6 !important;
@@ -80,7 +96,6 @@ body{
     border-left: 0px;
     border-right: 0px;
     margin-bottom: 5px;
-
     text-decoration: none;
     color: black;
 }
