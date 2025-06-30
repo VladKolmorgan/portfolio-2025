@@ -44,22 +44,15 @@ body{
 }
 
 /* Active Custom */
-.active-custom{/* adjust? */
+.active-custom{
     color: #55B8E6 !important;
     border-bottom: 2px solid #55B8E6 !important;
 }
 
-/* Buttons *//* adjust */
+/* Buttons */
 .button-list-custom{
     list-style-type: square !important;
 }
 .button-text-custom{
-    background-color: white;
-    border-bottom: 2px solid transparent !important;
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    margin-bottom: 5px;
-    text-decoration: none;
-    color: black;
+    text-decoration: none !important;
 }
