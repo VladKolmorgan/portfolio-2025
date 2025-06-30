@@ -29,6 +29,7 @@ body{
 .bg-1-link{
     color: #6c757d !important;
     border-bottom: 2px solid transparent !important;
+    text-decoration: none !important;
 }
 .bg-1-link:hover{
     color: white !important;
@@ -37,22 +38,20 @@ body{
 .bg-2-link{
     color: #6c757d !important;
     border-bottom: 2px solid transparent !important;
+    text-decoration: none !important;
 }
 .bg-2-link:hover{
     color: #55B8E6 !important;
     border-bottom: 2px solid #55B8E6 !important;
 }
 
-/* Active Custom */
+/* Active Links Custom */
 .active-custom{
     color: #55B8E6 !important;
     border-bottom: 2px solid #55B8E6 !important;
 }
 
-/* Buttons */
-.button-list-custom{
+/* Game Links */
+.game-list-custom{
     list-style-type: square !important;
-}
-.button-text-custom{
-    text-decoration: none !important;
 }
