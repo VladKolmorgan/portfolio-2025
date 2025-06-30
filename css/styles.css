@@ -45,6 +45,16 @@ body{
     border-bottom: 2px solid #55B8E6 !important;
 }
 
+/* Contact Links Custom */
+.contact-link{
+    text-decoration: none;
+    color: #6c757d !important;
+}
+.contact-link:hover{
+    color: white !important;
+    text-decoration: underline;
+}
+
 /* Active Links Custom */
 .active-custom{
     color: #55B8E6 !important;
