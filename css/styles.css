@@ -66,11 +66,9 @@ body{
     list-style-type: square !important;
 }
 
-/* Carousel */
+/* Carousel Links */
 .carousel-link {
-  pointer-events: auto;
-  z-index: 2;
-  position: relative;
+    pointer-events: auto;
+    z-index: 2;
+    position: relative;
 }
-
-/* Card Links */
