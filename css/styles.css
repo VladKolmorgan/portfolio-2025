@@ -65,3 +65,10 @@ body{
 .game-list-custom{
     list-style-type: square !important;
 }
+
+/* Carousel */
+.card a {
+  pointer-events: auto;
+  z-index: 2;
+  position: relative;
+}
