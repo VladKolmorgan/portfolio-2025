@@ -67,8 +67,10 @@ body{
 }
 
 /* Carousel */
-.card a {
+.carousel-link {
   pointer-events: auto;
   z-index: 2;
   position: relative;
 }
+
+/* Card Links */
